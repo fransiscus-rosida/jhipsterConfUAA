@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "applicationType": "uaa",
+    "gitCompany": "",
+    "baseName": "jhipsterConfUAA",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 9999,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.5.0",
+    "jwtSecretKey": "YjQ3OTIyMzQwNjAwMGNiNDg5ZDBiNTYyNmI3NzMyMTIzZjBhMDI3OTljOTQzZWVkNWM3MzBmNDE0NmM0N2EyYTkzZDJmOGQ4Y2JmOWY3M2I2MmU2ODg4NDVjYTQ3M2M2ZWFlYTA1N2ZiNDYwZTE4MjFjMmUyZTY1NWNiZWVjYjk=",
+    "skipClient": true
+  },
+  "git-provider": "GitHub",
+  "git-company": "fransiscus-rosida",
+  "repository-name": "jhipsterConfUAA"
+}
